@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap");
+
+body {
+  width: 90%;
+  justify-content: center;
+  padding: 0;
+  color: #4d4d4d;
+  margin: auto;
+}
+
+#users {
+  border-collapse: collapse;
+  border: 1px solid #ddd;
+  background: #fff;
+  box-shadow: 0 0 14px 0 rgba(0, 0, 0, 0.2);
+  border-radius: px;
+  margin: 40px;
+}
+
+#users td,
+#users th {
+  border: 1px solid #ddd;
+  padding: 14px;
+}
+
+#users tr:hover {
+  background-color:  rgb(186, 211, 219);
+}
+
+#users th {
+  padding: 10px;
+  text-align: center;
+  background-color: rgb(25, 115, 143);
+  color: white;
+}
+
+#user-find {
+  margin-left: 40px;
+  margin-right: 20px;
+}
