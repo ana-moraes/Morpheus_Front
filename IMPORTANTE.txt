@@ -1,0 +1,23 @@
+Projeto apresentado como parte de avaliação profissional.
+
+Techs: NodeJS, ReactJS, MongoDB(versão online).
+
+
+
+********Instruções de acesso ao banco
+
+Utilizar MongoDB Compass para acesso ao banco para melhor visualização e manipulação de dados
+
+https://www.mongodb.com/products/compass
+
+String de conexão: mongodb://admin:admin@cluster0-shard-00-00.cdxvv.mongodb.net:27017,cluster0-shard-00-01.cdxvv.mongodb.net:27017,cluster0-shard-00-02.cdxvv.mongodb.net:27017/AppUsers?ssl=true&replicaSet=atlas-13u9n6-shard-0&authSource=admin&retryWrites=true&w=majority
+
+User: admin
+Password: admin
+
+Acessar AppUsers, tabela users.
+
+
+********Acesso à aplicação no Heroku
+
+https://upload-users-front.herokuapp.com/
